@@ -1,0 +1,42 @@
+body{
+    background-color: #F6E5DC;
+    font-family: verdana;
+}
+
+#naglowek{
+    background-color: #2F180C;
+    text-align: center;
+    color: khaki;
+    height: 60px;
+}
+
+#main-left{
+    width:60%;
+    float:left;
+}
+#main-right{
+    font-size: 150%;
+    padding: 70px;
+}
+
+#formularz{
+    background-color: #D0B6A8;
+    text-align:center;
+    padding:30px;
+}
+
+.przyciski{
+    margin: 10px;
+    padding: 5px;
+    background-color: #2F180C;
+    color: khaki;
+}
+
+footer{
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    left:0;
+    background-color: #2F180C;
+    color:khaki;
+}
