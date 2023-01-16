@@ -1,0 +1,66 @@
+body{
+    font-family: Verdana;
+}
+
+#lewy, #prawy{
+    background-color: seagreen;
+    color: white;
+    line-height: 150px;
+    height: 260px;
+    font-size: 160%;
+}
+
+#lewy{
+    width: 75%;
+
+    float: left;
+}
+ 
+#prawy{
+    width: 25%;
+    text-align: right;
+
+    float: right;
+}
+
+#main{
+    background-color: mintcream;
+    padding: 80px;
+}
+
+footer{
+    background-color: seagreen;
+    color: white;
+    width: 50%;
+    height: 70px;
+    text-align: center;
+    position: absolute;
+}
+
+#left_footer{
+    bottom: 0px;
+    left:0px;
+}
+
+#right_footer{
+    bottom:0px;
+    right:0px;
+}
+
+input{
+    margin-bottom: 20px;
+}
+
+#zdj{
+    box-shadow: 15px 15px 10px dimgray;
+
+    margin-right: 50px;
+}
+
+a{
+    text-decoration: none;
+    background-color: mintcream;
+    color:seagreen;
+    margin: 15px;
+    line-height: 70px;
+}
